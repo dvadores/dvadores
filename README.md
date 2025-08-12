@@ -1,16 +1,22 @@
-## Hi there 👋
+Daniel Dores - Analista de suporte 🖥️
 
-<!--
-**dvadores/dvadores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação Acadêmica
+- Cursando **Análise e Desenvolvimento de Sistemas**  
 
-Here are some ideas to get you started:
+## 💻 Conhecimentos Técnicos
+- **PowerShell**: Automação de tarefas e administração de sistemas
+- **LGPD**: Implementação de boas práticas de proteção de dados pessoais
+- **Segurança da Informação**: Interesse em práticas de segurança cibernética
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivos Profissionais
+Atuar na área de **Segurança da Informação**, aplicando conhecimentos em automação, proteção de dados e boas práticas de segurança.
+
+## 📬 Contato
+- 📧 Email: danieldorescorp@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/dvadores 
+
+## 📈 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dvadores&show_icons=true&theme=radical)
+
+## 🐍 Contribuições no GitHub
+![Animação de Contribuições](https://github.com/seu-usuario/dvadores/blob/output/github-contribution-grid-snake.svg)
