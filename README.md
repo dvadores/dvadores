@@ -15,7 +15,7 @@ Daniel Dores - Analista de suporte 🖥️
 Atuar na área de **Segurança da Informação**, aplicando conhecimentos em automação, proteção de dados e boas práticas de segurança.
 
 ## 📬 Contato
-- 📧 Email: danieldorescorp@gmail.com
+- 📧 Email: [Email](danieldorescorp@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvadores)
 
 ## 📈 GitHub Stats
