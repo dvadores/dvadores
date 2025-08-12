@@ -16,7 +16,7 @@ Atuar na área de **Segurança da Informação**, aplicando conhecimentos em aut
 
 ## 📬 Contato
 - 📧 Email: danieldorescorp@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/dvadores 
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvadores)
 
 ## 📈 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dvadores&show_icons=true&theme=radical)
