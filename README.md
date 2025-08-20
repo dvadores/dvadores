@@ -19,6 +19,6 @@ Atuar na área de **Segurança da Informação**, aplicando conhecimentos em aut
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dvadores)
 
 ## 📈 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dvadores&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dvadores&show_icons=true&theme=radical&count_private=true)
 
 
